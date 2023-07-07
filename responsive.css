@@ -1,0 +1,16 @@
+@media (max-width: 768px) {
+
+    .container {
+        max-width: 400px;
+    }
+
+    #CNH{
+        font-size: 63px;
+
+    }
+
+    #Requisitos {
+        font-size: 70px;
+    }
+
+}
